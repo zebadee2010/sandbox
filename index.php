@@ -10,9 +10,9 @@
     </header>
     <section>
       <form class="form_style" action="index.html" method="post">
-        <input type="text" name="FirstName" value="firstname">
-        <input type="text" name="LastName" value="lastname">
-        <input type="button" name="Submit Button" value="Submission">
+        <input type="text" name="FirstName" value="First Name">
+        <input type="text" name="LastName" value="Last Name">
+        <input type="button" name="submit" value="Submit">
       </form>
     </section>
   </body>
